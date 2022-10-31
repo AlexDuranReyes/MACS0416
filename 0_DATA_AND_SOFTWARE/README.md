@@ -12,6 +12,7 @@ If you need more information about the cluster, like coordinates or some referen
 
 ## Software and Tools
 Some programs are neccesary to work:
+
 0. Python: For absolutely everything. Python is essential, even for IRAF.
 1. IRAF: For image reduction, edition, co-addition and another features. With Python, we get Pyraf, IRAF with Python interface.
 2. DS9: For image and catalog visualization.
