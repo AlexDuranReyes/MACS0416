@@ -7,7 +7,7 @@ My supervisors professors were Dr. Ricardo Demarco (Universidad de Concepción, 
 ## Project Timeline
 The project is divided into several steps:
 
-    0. Download the data
+    0. Download the data, software and tools
     1. Image reduction and calibration
     2. Astrometric Calibration
     3. Photometric Calibration
