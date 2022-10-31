@@ -13,3 +13,5 @@ The project is divided into several steps:
     3. Photometric Calibration
     4. Limiting magnitudes and comparison with literature
     5. Characteristic luminosity
+## Software
+For this work we need typical and specific astronomical and coding programas like IRAF, Python, DS9, SEXtractor, SCAMP, Anaconda, TOPCAT, etc.
